@@ -11077,6 +11077,7 @@ rules:
  - DOMAIN-SUFFIX,zhimg.com,🎯 全球直连
  - DOMAIN-SUFFIX,zhuihd.com,🎯 全球直连
  - DOMAIN-SUFFIX,ecosia.org,🎯 全球直连
+ - DOMAIN-SUFFIX,dailyheadlines.cc,🎯 全球直连
  - DOMAIN,download.jetbrains.com,🎯 全球直连
  - DOMAIN,images-cn.ssl-images-amazon.com,🎯 全球直连
  - PROCESS-NAME,aria2c,🎯 全球直连
