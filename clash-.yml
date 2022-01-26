@@ -10237,9 +10237,6 @@ rules:
  - DOMAIN-SUFFIX,rocksdb.org,🔰 节点选择
  - DOMAIN-SUFFIX,whatsapp.com,🔰 节点选择
  - DOMAIN-SUFFIX,whatsapp.net,🔰 节点选择
- - DOMAIN-SUFFIX,github.com,🔰 节点选择
- - DOMAIN-SUFFIX,github.io,🔰 节点选择
- - DOMAIN-SUFFIX,githubusercontent.com,🔰 节点选择
  - DOMAIN-SUFFIX,appspot.com,🔰 节点选择
  - DOMAIN-SUFFIX,blogger.com,🔰 节点选择
  - DOMAIN-SUFFIX,getoutline.org,🔰 节点选择
